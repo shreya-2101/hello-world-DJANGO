@@ -16,8 +16,8 @@ This is a simple Django app that returns a JSON object with a "Hello World" mess
    cd hello-world-hello
 ### TO Run the code:
 Use command:
-1. python manage.py startserver
-2. python manage.py runserver
+python manage.py startserver
+python manage.py runserver
    
 2.**Out put**
    when you open browser http://127.0.0.1:8000/polls/
