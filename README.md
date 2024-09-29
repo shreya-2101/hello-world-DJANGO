@@ -12,7 +12,7 @@ This is a simple Django app that returns a JSON object with a "Hello World" mess
    ```bash
    git clone https://github.com/shreya-2101/hello-world-DJANGO.git
 
-   cd hello-world-hello
+   cd hello-world-DJANGO
 ##### TO Run the code:
 Use command:
 1. python manage.py startserver
