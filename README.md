@@ -1,20 +1,18 @@
-# hello-world-hello
-# Hello World Django App
-
+# hello-world
 ## Overview
 This is a simple Django app that returns a JSON object with a "Hello World" message.
 
-## Prerequisites
+### Prerequisites
 - Python 3.x
 - Django (Install using `pip install django`)
 
-## How to Run the App
+#### How to Run the App
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shreya-2101/hello-world-hello.git
    cd hello-world-hello
-### TO Run the code:
+##### TO Run the code:
 Use command:
 python manage.py startserver
 python manage.py runserver
