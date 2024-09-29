@@ -14,10 +14,10 @@ This is a simple Django app that returns a JSON object with a "Hello World" mess
    cd hello-world-hello
 ##### TO Run the code:
 Use command:
-python manage.py startserver
-python manage.py runserver
+1. python manage.py startserver
+2. python manage.py runserver
    
-2.**Out put**
+3.**Out put**
    when you open browser http://127.0.0.1:8000/polls/
    you should get 'Hello World' as output.
    
