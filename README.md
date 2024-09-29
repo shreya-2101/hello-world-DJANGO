@@ -12,8 +12,8 @@ This is a simple Django app that returns a JSON object with a "Hello World" mess
 
 1. **Clone the repository:**
    ```bash
-   git clone 
-   cd hello-world-django
+   git clone https://github.com/shreya-2101/hello-world-hello.git
+   cd hello-world-hello
 2.**Out put**
    when you open browser http://127.0.0.1:8000/polls/
    you should get 'Hello World' as output.
