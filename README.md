@@ -10,7 +10,8 @@ This is a simple Django app that returns a JSON object with a "Hello World" mess
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shreya-2101/hello-world-hello.git
+   git clone https://github.com/shreya-2101/hello-world-DJANGO.git
+
    cd hello-world-hello
 ##### TO Run the code:
 Use command:
